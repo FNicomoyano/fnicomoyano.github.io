@@ -1,1 +1,9 @@
-
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.armarker",
+    "sha256_cert_fingerprints":
+    ["21:D0:DB:86:D2:88:DA:B7:27:20:AD:87:15:3B:65:1E:4A:96:06:7F:FD:B2:CD:FB:FE:95:9E:C0:3A:56:22:5E"]
+  }
+}]
